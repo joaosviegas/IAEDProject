@@ -1,11 +1,9 @@
-# IAEDProject
+# IAEDProject 2023/24
 Project from UC - IAED (Introduction to Algorithms and Data Structures)
 
-# Enunciado do Projeto 1 - IAED 2023/24
+### Data de entrega: 01 de abril 2024, às 19h59
 
-## Data de entrega: 01 de abril 2024, às 19h59
-
-## LOG alterações
+### LOG alterações
 
 - 8mar24 - Publicação do enunciado.
 - 14mar24 - Exemplo de facturação adicionado
